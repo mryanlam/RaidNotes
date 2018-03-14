@@ -1,0 +1,36 @@
+Group 1                           Group 2
+|cffc41f3bBellätør|r                            |cff00ff96Fengxia|r   
+|cffff7d0aPoozy|r                               |cffffffffÁlter|r 
+|cff0070deSpankcakes|r                      |cffffffffViviee|r                                  
+|cffc79c6eFurrytale|r                          |cffabd473Xcato|r 
+||cff8788eeVorslock|r                          |cff3fc7ebWhitye|r 
+|cffc41f3bNeverlastt|r                         |cfffff569Dojjie|r 
+|cffff7d0aRasulki|r                             |cff3fc7ebTrexion|r
+|cffabd473Dynid|r                                |cffff7d0aPeábrain|r 
+|cffc41f3bJehk|r                                  |cfff58cbaJaxxstar|r
+|cff3fc7ebRimsithsmage|r                  |cffc79c6eLepz|r 
+
+
+Praxis1
+YELLOW |cffff7d0aPoozy|r   
+RED |cff8788eeVorslock|r 
+GREEN |cff3fc7ebTrexion|r 
+BLUE |cffff7d0aRasulki|r 
+
+Praxis2
+YELLOW |cffffffffViviee|r 
+RED |cff3fc7ebRimsithsmage|r   
+GREEN |cffc79c6eFurrytale|r 
+BLUE |cfff58cbaJaxxstar|r  
+
+Praxis3
+YELLOW |cffffffffÁlter|r 
+RED |cffabd473Xcato|r 
+GREEN |cffc79c6eLepz|r 
+BLUE |cfffff569Dojjie|r
+
+Praxis4
+YELLOW |cff0070deSpankcakes|r   
+RED  |cffabd473Dynid|r |cffabd473Dynid|r 
+GREEN |cffff7d0aPeábrain|r 
+BLUE |cffc41f3bJehk|r 
