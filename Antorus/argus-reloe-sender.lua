@@ -13,18 +13,23 @@ aura_env.content = {
     
     -- phase 1 start is relative to ENCOUNTER_START event, which is 0 on logs/videos etc.
     {7, 5, "Melee Spread", 1},
+    {26, 6, "Cone", 1},
     {36, 5, "Gifts Inc", 1},
     {42, 5, "Spread", 1},
-    {60, 5, "Gifts Inc", 1},
+    {47, 6, "Cone", 1},
+    {60, 3, "2nd POTS", 1},
+    {67, 6, "Cone", 1},
+    {60, 5, "Gifts Inc WAIT B4 MOVING", 1},
     {73, 9, "Buff -> Spread", 1},
-    {82, 3, "2nd DPS POTS", 1},
+    {87, 6, "Cone", 1},
+    {107, 6, "Cone", 1},
     
     
     -- phase 2 start is relative to the first Avatar being applied
     {3, 10, "Spread + Bombs", 2},
     {43, 5, "Bomb inc", 2},
     {64, 8, "Spread", 2},
-    {87, 10, "Bomb inc -> Tank Suicide", 2},
+    {87, 10, "Bomb inc -> HEAL Suicide", 2},
     
     -- phase 3 start is relative to the interrupt
     {0, 5, "DPS Pots/RUNE", 3},
