@@ -21,7 +21,7 @@ aura_env.content = {
     {64, 3, "Gifts Inc BAIT B4 MOVING", 1},
     {67, 6, "Cone", 1},
     {73, 9, "Buff -> Spread", 1},
-    {87, 6, "Cone", 1},
+    {87, 6, "Cone and Defensive", 1},
     {107, 6, "Cone", 1},
     
     
@@ -33,18 +33,16 @@ aura_env.content = {
     
     -- phase 3 start is relative to the interrupt
     {0, 5, "RUNE", 3},
-    {0, 5, "Rune", 3},
-    {17, 3, "WAIT FOR SCYTHE", 3},
     {19, 5, "Spread", 3},
-    {24, 7, "Bait", 3},
+    {26, 7, "Bait", 3},
     {31, 5, "Potion", 3},
     {49, 4, "Chains inc", 3},
     {52, 3, "Break BOTH CHAINS", 3}, -- First Chains Applied
     {72, 7, "Bait", 3},
-    {93, 5, "Spread", 3},
-    {96, 3, "Suicide next CHAINS", 3}, -- 15second Suicide Warning
-    {101, 4, "Die", 3},
-    {109, 5, "Release", 3},
+    {93, 3, "Spread", 3},
+    {97, 3, "Suicide next CHAINS", 3}, -- 15second Suicide Warning
+    --{101, 4, "Die", 3},
+    --{109, 5, "Release", 3},
     {111, 3, "SUICIDE", 3}, -- Suicide during EoA cast + Chains #2
     {115, 3, "Rune", 3},
     {117, 3, "Tank Bait Position", 3}, -- Tank Repositions
@@ -59,13 +57,9 @@ aura_env.content = {
     {220, 6, "Bait", 3},
     {226, 4, "Potion", 3},
     {227, 3, "BREAK BOTH ASAP!!", 3}, -- Break BOTH #4 Chains in time before TR
-    {235, 4, "Healpot", 3},
-    {240, 2, "Prolonged Power", 3}, -- 1:10 Left Berserk  (Assuming ~4:25 P2)
     {255, 4, "Bloodlust!", 3},
     {269, 4, "Spread", 3},
-    {272, 2, "Old War Pots", 3},    
     {273, 7, "Bait", 3},
     {276, 4, "Bait Module AWAY ", 3},
     {280, 3, "IGNORE MODULE, NUKE BOSS", 3},
 }
-
