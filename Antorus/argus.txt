@@ -15,12 +15,12 @@ Soak first 2 sets of bombs, sac after.
 Soak Bursts in raid.
 
 === P3 ===
-Die before 4th module, respawn when module spawns on tank.
+Die AFTER 2nd chains goes out, res and bait.
 Move boss after next scythe.
 
 Chains
-1 - AM + FurryRally
-2 - Tranq + LepzRally
-3 - just die
-4 - SLT
-5
+1 - rally/cookie/darkness - BREAK BOTH
+2 - Die
+3 - AM/TIDE - BREAK BOTH
+4 - Tranq + SLT - BREAK 1 AT A TIME
+5 -
