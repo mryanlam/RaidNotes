@@ -1,10 +1,8 @@
 {diamond}
-|cffff7d0aNiyala|r  |cff0070deFaerieboi|r    |cffabd473Xcato|r    |cff3fc7ebVorsmage|r   |cff3fc7ebRimsithsmage|r |cffc79c6eLepz|r |cff00ff96Kratiq|r   |cffc41f3bAmoory|r  
+|cfff58cbaMarrine|r    |cff0070deFaerieboi|r    |cffabd473Xcato|r     |cff3fc7ebVesmic|r     |cffc41f3bJehk|r  |cffc79c6eLepz|r |cff00ff96Kratiq|r   |cffc41f3bAmoory|r 
 
 {cross}
-|cff00ff96Fengxia|r |cffa330c9Vénris|r  |cff8788eeCoffeedots|r  |cfffff569Dojjie|r   
+|cff00ff96Fengxia|r |cff00ff96Illya|r  |cffa330c9Mechonics|r  |cffa330c9Töxicaf|r    
 
 {triangle}
-|cffff7d0aPoozy|r |cfff58cbaMarrine|r    |cffc41f3bChiaki|r    |cffffffffCbframe|r   |cffabd473Dynid|r   |cffc41f3bNeverlastt|r    |cffff7d0aRasulki|r  |cffabd473Xcato|r 
-
-3rd set - swap {cross} and {diamond}
+|cffff7d0aPoozy|r |cffffffffViviien|r     |cfffff569Dojjie|r     |cffffffffCbframe|r   |cff8788eeShiftdots|r  |cff0070deSoggysausage|r      |cffff7d0aRasulki|r  |cffff7d0aPeabráin|r 
