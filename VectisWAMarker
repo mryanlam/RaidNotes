@@ -1,0 +1,85 @@
+-- INIT
+aura_env.groups = {
+    --Group 1
+    {
+        "Dinopoops",
+        "Maelick",
+        "Aphilleon",
+        "Coldorr"
+    },
+    -- Group 2
+    {
+        "Taeldoriàn",
+        "Shyden",
+        "Turribletank",
+        "Kaisolin"
+    },
+    -- Group 3
+    {
+        "Hondapriest",
+        "Velfi",
+        "Thenan",
+        "Marshmallon",
+        "Jbloom"
+    },
+    -- Group 4
+    {
+        "Chickensoop",
+        "Brighthope",
+        "Darketh",
+        "Roflpyro",
+        "Fobbom"
+    },
+    -- Not in a group (tanks only probably)
+    {
+        "Ickymonk",
+        "Snoozybear"
+    }
+}
+aura_env.omegaStatus = {}
+aura_env.playerGroup = {}
+aura_env.marks = {"", "", "", ""}
+-- Create a map of player name -> group id
+for gid, group in ipairs(aura_env.groups) do
+    for i, player in ipairs(group) do
+        aura_env.playerGroup[player] = gid
+        aura_env.omegaStatus[player] = false
+    end
+end
+
+local SetPlayerMark = function (gid, player)
+    SetRaidTarget(player, gid)
+    aura_env.marks[gid] = player
+end
+aura_env.SetPlayerMark = SetPlayerMark
+
+local UpdateMarks = function (playerName)
+    local gid = aura_env.playerGroup[playerName]
+    if gid < 5 then
+        local markedPlayer = aura_env.marks[gid]
+        if markedPlayer == "" then
+            aura_env.SetPlayerMark(gid, playerName)
+            return
+        end
+        
+        if aura_env.omegaStatus[markedPlayer] == false then
+            aura_env.SetPlayerMark(gid, playerName)
+            return
+        end
+    end
+    
+    -- if we make it here, there are two marks in our group or it was on a tank
+    for gid, markedPlayer in ipairs(aura_env.marks) do
+        if markedPlayer == "" then
+            aura_env.SetPlayerMark(gid, playerName)
+            return
+        end
+        if aura_env.omegaStatus[markedPlayer] == false then -- WHAT A FAKER
+            aura_env.SetPlayerMark(gid, playerName)
+            return
+        end
+    end
+    -- I don't think it is possible to make it here without 5 marks going out...
+end
+aura_env.UpdateMarks = UpdateMarks
+
