@@ -2,38 +2,38 @@
 aura_env.groups = {
     --Group 1
     {
-        "Dinopoops",
-        "Maelick",
-        "Aphilleon",
-        "Coldorr"
+        "Amoory",
+        "Pùrest",
+        "Dojjie",
+        "Frakh"
     },
     -- Group 2
     {
-        "Taeldoriàn",
-        "Shyden",
-        "Turribletank",
-        "Kaisolin"
+        "Lepzed",
+        "Kratiq",
+        "Slãsh",
+        "Malitaur"
     },
     -- Group 3
     {
-        "Hondapriest",
-        "Velfi",
-        "Thenan",
-        "Marshmallon",
-        "Jbloom"
+        "Shiftmage",
+        "Okira",
+        "Peabráin",
+        "Viviien",
+        "Mechonics"
     },
     -- Group 4
     {
-        "Chickensoop",
-        "Brighthope",
-        "Darketh",
-        "Roflpyro",
-        "Fobbom"
+        "Stickyy",
+        "Îmtøxîc",
+        "Vesmic",
+        "Ruslana",
+        "Faerieboi"
     },
     -- Not in a group (tanks only probably)
     {
-        "Ickymonk",
-        "Snoozybear"
+        "Charurun",
+        "Banggdingoww"
     }
 }
 aura_env.omegaStatus = {}
