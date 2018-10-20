@@ -3,41 +3,41 @@
 {circle}-3
 {triangle}-4
 
-{spell:265206} 0:18 - Tranq + Kya Hymn
+{spell:265206} 0:18 - Tranq + Hymn
 {spell:267242} 0:23
-{spell:265206} 0:44 - Tide + Wings
+{spell:265206} 0:44 - Wings + AM
 {spell:267242} 0:46 
-{spell:265206} 1:09 - V Hymn + AM  + Darkness (Slash)
+{spell:265206} 1:09 - Tide  + Darkness (mech)
 {spell:267242} 1:11 
-{spell:265206} 1:35 -  V Salv
+{spell:265206} 1:35 -  Salv
 ----------------------------
-- Liquify 1 - Kya Salv + Tree
+- Liquify 1 - Tree
 ----------------------------
 {spell:265206} 2:29 - Tranq
 {spell:267242} 2:33 
 {spell:265206} 2:54 -  Wings
 {spell:267242} 2:56 
-{spell:265206} 3:20 - Kya Hymn + Darkness (mech) + Shout
+{spell:265206} 3:20 - Hymn  + Shout
 {spell:267242} 3:21 
-{spell:265206} 3:46 - V Hymn
+{spell:265206} 3:46 - AM
 ------------------------------
-- Liquify 2 -  Tide + Health Pots
+- Liquify 2 -  Personals
 -----------------------------
 {spell:265206} 4:40 - Tranq
 {spell:267242} 4:41 
-{spell:265206} 5:04 - AM + SLT 
+{spell:265206} 5:04 - Wings
 {spell:267242} 5:05 
-{spell:265206} 5:29 - Wings + Darkness {Slash) 
+{spell:265206} 5:29 - Tide + Darkness {Slash) 
 {spell:267242} 5:30 
-{spell:265206} 5:53 - V Salv
+{spell:265206} 5:53 - 
 ------------------------------
--Liquify 3 - Kya Salv + Tree
+-Liquify 3 -  Tree
 ------------------------------
-{spell:265206} 6:50 - Tranq + Kya Hymn + Darkness (Mech) + Shout
+{spell:265206} 6:50 - Tranq + Shout
 {spell:267242} 6:52 
-{spell:265206} 7:14 -  Wings + Tide
+{spell:265206} 7:14 -  Wings + AM
 {spell:267242} 7:16 
-{spell:265206} 7:40 - V Hymn + Kya Hymn
+{spell:265206} 7:40 - Hymn 
 {spell:267242} 7:41
 {spell:265206} 8:02 -  whatever else 
 ------------------------------
