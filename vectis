@@ -3,7 +3,7 @@
 {circle}-3
 {triangle}-4
 
-{spell:265206} 0:18 - Tranq + Hymn
+{spell:265206} 0:18 - Doj + Hymn
 {spell:267242} 0:23
 {spell:265206} 0:44 - Wings + AM
 {spell:267242} 0:46 
@@ -11,9 +11,9 @@
 {spell:267242} 1:11 
 {spell:265206} 1:35 -  Salv
 ----------------------------
-- Liquify 1 - Tree
+- Liquify 1 - Revival
 ----------------------------
-{spell:265206} 2:29 - Tranq
+{spell:265206} 2:29 - Doj
 {spell:267242} 2:33 
 {spell:265206} 2:54 -  Wings
 {spell:267242} 2:56 
@@ -23,17 +23,17 @@
 ------------------------------
 - Liquify 2 -  Personals
 -----------------------------
-{spell:265206} 4:40 - Tranq
+{spell:265206} 4:40 - Doj
 {spell:267242} 4:41 
 {spell:265206} 5:04 - Wings
 {spell:267242} 5:05 
 {spell:265206} 5:29 - Tide + Darkness {Slash) 
 {spell:267242} 5:30 
-{spell:265206} 5:53 - 
+{spell:265206} 5:53 - Revival
 ------------------------------
 -Liquify 3 -  Tree
 ------------------------------
-{spell:265206} 6:50 - Tranq + Shout
+{spell:265206} 6:50 - Doj + Shout
 {spell:267242} 6:52 
 {spell:265206} 7:14 -  Wings + AM
 {spell:267242} 7:16 
